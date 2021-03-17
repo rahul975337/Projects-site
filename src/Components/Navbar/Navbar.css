@@ -1,0 +1,12 @@
+.navbar {
+  height: 100px;
+  margin-top: 40px;
+
+  background: #151618;
+}
+.nav--heading {
+  color: white;
+  font-weight: bold;
+  font-size: 2.5rem;
+  padding: 30px;
+}
